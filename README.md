@@ -29,7 +29,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [OAuth Integration Using Hapi](https://www.sitepoint.com/oauth-integration-using-hapi/)
 - [HapiJS Authentication - Secure Your API With JWT](https://auth0.com/blog/hapijs-authentication-secure-your-api-with-json-web-tokens/)
 
-## Best practices
+### Best practices
 - [Best Practice Project Structure](https://github.com/hapijs/hapi/issues/2479)
 - [Manifests, plugins and schemas: Organizing your hapi application](https://medium.com/@dstevensio/manifests-plugins-and-schemas-organizing-your-hapi-application-68cf316730ef#.uxuia2gii)
 
