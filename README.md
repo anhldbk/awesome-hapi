@@ -42,5 +42,6 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 ### Comparisons
 - [Node Performance 2016: Hapi, Express.js, Restify, and Koa](https://dzone.com/articles/node-performance-2016-hapi-expressjs-restify-and-k)
 - [Framework options for creating a REST API with node.](https://gist.github.com/xtina-starr/8ccc2825c5b279f5914a)
+- [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](https://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 
 ## Packages
