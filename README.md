@@ -9,6 +9,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Production](#tutorials)  
+	- [Benchmarks](#benchmarks)  
 
 - [Packages](#packages)
 
@@ -21,9 +22,13 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [Future Studio's tutorials](https://futurestud.io/tutorials/tag/hapi)
 - [hapijs-rest-api-tutorial](https://gist.github.com/agendor/9922151) - A practical introduction to building a RESTful API with the hapi.js server framework for Node.js
 - [hapi-example](https://github.com/geek/hapi-example) - Making an API happy with hapi
+- [Getting Started with Hapi 8](https://blog.risingstack.com/getting-started-with-hapi-8/)
+- [Let's build a URL Shortener with Node, MongoDB and Hapi.js](https://codetuts.tech/build-a-url-shortener-node-hapi-js/)
 
 ### Production
 - [Walmart Mobile node.js Setup](https://gist.github.com/hueniverse/7686452)
 
+### Benchmarks
+- [Node Performance 2016: Hapi, Express.js, Restify, and Koa](https://dzone.com/articles/node-performance-2016-hapi-expressjs-restify-and-k)
 
 ## Packages
