@@ -9,7 +9,8 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Production](#tutorials)  
-	- [Benchmarks](#benchmarks)  
+	- [Comparisons](#comparisons)  
+
 
 - [Packages](#packages)
 
@@ -27,8 +28,11 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 
 ### Production
 - [Walmart Mobile node.js Setup](https://gist.github.com/hueniverse/7686452)
+- [Kong](https://github.com/Mashape/kong/) - The API Gateway & Microservice Management Layer, built on NGINX
+- [Tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
 
-### Benchmarks
+### Comparisons
 - [Node Performance 2016: Hapi, Express.js, Restify, and Koa](https://dzone.com/articles/node-performance-2016-hapi-expressjs-restify-and-k)
+- [Framework options for creating a REST API with node.](https://gist.github.com/xtina-starr/8ccc2825c5b279f5914a)
 
 ## Packages
