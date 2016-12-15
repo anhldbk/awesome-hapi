@@ -15,11 +15,14 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 
 - [Packages](#packages)
 
+- [Others](#others)
+	- [API Designs](#api-designs)  
+	- [Platforms](#platforms)  	
+
 ## Resources
 
 ### Tutorials
 - [learn-hapi](https://github.com/dwyl/learn-hapi) - Learn to use Hapi.js (Node.js) web framework to build scalable apps in less time
-- [learn-api-design](https://github.com/dwyl/learn-api-design) -  Essential learning for people building APIs
 - [How to create a REST API with Hapi, Dogwater and Bedwetter](http://blog.webkid.io/how-to-create-a-rest-api-with-hapi/)
 - [Future Studio's tutorials](https://futurestud.io/tutorials/tag/hapi)
 - [hapijs-rest-api-tutorial](https://gist.github.com/agendor/9922151) - A practical introduction to building a RESTful API with the hapi.js server framework for Node.js
@@ -36,8 +39,6 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 
 ### Production
 - [Walmart Mobile node.js Setup](https://gist.github.com/hueniverse/7686452)
-- [Kong](https://github.com/Mashape/kong/) - The API Gateway & Microservice Management Layer, built on NGINX
-- [Tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
 
 ### Comparisons
 - [Node Performance 2016: Hapi, Express.js, Restify, and Koa](https://dzone.com/articles/node-performance-2016-hapi-expressjs-restify-and-k)
@@ -45,3 +46,13 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](https://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 
 ## Packages
+
+## Others
+
+### API designs
+- [learn-api-design](https://github.com/dwyl/learn-api-design) -  Essential learning for people building APIs
+- [API best practices: Hypermedia](http://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-1/)
+
+### Platforms
+- [Kong](https://github.com/Mashape/kong/) - The API Gateway & Microservice Management Layer, built on NGINX
+- [Tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
