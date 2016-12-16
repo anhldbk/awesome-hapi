@@ -33,6 +33,8 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [HapiJS Authentication - Secure Your API With JWT](https://auth0.com/blog/hapijs-authentication-secure-your-api-with-json-web-tokens/)
 - [Build a RESTful API using hapi.js and MongoDB](http://mph-web.de/build-a-restful-api-using-hapi-js-and-mongodb/)
 - [makemehapi](https://github.com/hapijs/makemehapi) - Self guided workshops to teach you about hapi
+- [Introducing chairo, a hapi.js Microservices Plugin](https://hueniverse.com/2015/06/02/introducing-chairo-a-hapi-js-microservices-plugin/)
+
 ### Best practices
 - [Best Practice Project Structure](https://github.com/hapijs/hapi/issues/2479)
 - [Manifests, plugins and schemas: Organizing your hapi application](https://medium.com/@dstevensio/manifests-plugins-and-schemas-organizing-your-hapi-application-68cf316730ef#.uxuia2gii)
