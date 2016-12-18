@@ -34,6 +34,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [Build a RESTful API using hapi.js and MongoDB](http://mph-web.de/build-a-restful-api-using-hapi-js-and-mongodb/)
 - [makemehapi](https://github.com/hapijs/makemehapi) - Self guided workshops to teach you about hapi
 - [Introducing chairo, a hapi.js Microservices Plugin](https://hueniverse.com/2015/06/02/introducing-chairo-a-hapi-js-microservices-plugin/)
+- [Using hapi.js with Socket.io](http://matt-harrison.com/using-hapi-js-with-socket-io/)
 
 ### Best practices
 - [Best Practice Project Structure](https://github.com/hapijs/hapi/issues/2479)
