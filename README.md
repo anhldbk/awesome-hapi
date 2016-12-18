@@ -24,7 +24,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 ### Tutorials
 - [learn-hapi](https://github.com/dwyl/learn-hapi) - Learn to use Hapi.js (Node.js) web framework to build scalable apps in less time
 - [How to create a REST API with Hapi, Dogwater and Bedwetter](http://blog.webkid.io/how-to-create-a-rest-api-with-hapi/)
-- [Future Studio's tutorials](https://futurestud.io/tutorials/tag/hapi)
+- [Hapi — How to Use Server Labels](https://futurestud.io/tutorials/hapi-how-to-use-server-labels)
 - [hapijs-rest-api-tutorial](https://gist.github.com/agendor/9922151) - A practical introduction to building a RESTful API with the hapi.js server framework for Node.js
 - [hapi-example](https://github.com/geek/hapi-example) - Making an API happy with hapi
 - [Getting Started with Hapi 8](https://blog.risingstack.com/getting-started-with-hapi-8/)
