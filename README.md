@@ -44,6 +44,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 
 ### Q&A
 - [HapiJS global path prefix](http://stackoverflow.com/questions/27871324/hapijs-global-path-prefix)
+
 ### Best practices
 - [Best Practice Project Structure](https://github.com/hapijs/hapi/issues/2479)
 - [Manifests, plugins and schemas: Organizing your hapi application](https://medium.com/@dstevensio/manifests-plugins-and-schemas-organizing-your-hapi-application-68cf316730ef#.uxuia2gii)
