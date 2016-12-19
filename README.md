@@ -37,6 +37,8 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [Using hapi.js with Socket.io](http://matt-harrison.com/using-hapi-js-with-socket-io/)
 - [nodejs-tutorials-hapi](https://github.com/fs-opensource/nodejs-tutorials-hapi) - Tutorial showcase for the hapi beginner series on Future Studio
 - [Serving React and Flux with Hapi and Webpack](https://medium.com/@tribou/serving-react-and-flux-with-hapi-and-webpack-213afacf94ea#.dgm70qow6)
+- [How to use Hapi decorate?](https://medium.com/@thedon/how-to-use-hapi-decorate-3b3896045ae1#.st82l71am)
+
 ### Best practices
 - [Best Practice Project Structure](https://github.com/hapijs/hapi/issues/2479)
 - [Manifests, plugins and schemas: Organizing your hapi application](https://medium.com/@dstevensio/manifests-plugins-and-schemas-organizing-your-hapi-application-68cf316730ef#.uxuia2gii)
