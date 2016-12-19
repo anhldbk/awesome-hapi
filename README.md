@@ -8,6 +8,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
+	- [Q&A](#q&a)
 	- [Best practices](#best-practices)  	
 	- [Production](#tutorials)  
 	- [Comparisons](#comparisons)  
@@ -41,6 +42,8 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [Thin Controller in Hapi](https://medium.com/@thedon/thin-controller-in-hapi-e52cfcb3962d#.9u49vwt1b)
 - [Realtime timeline with hapi.js, nes and RethinkDB](http://mph-web.de/realtime-timeline-with-hapi-js-nes-and-rethinkdb/)
 
+### Q&A
+- [HapiJS global path prefix](http://stackoverflow.com/questions/27871324/hapijs-global-path-prefix)
 ### Best practices
 - [Best Practice Project Structure](https://github.com/hapijs/hapi/issues/2479)
 - [Manifests, plugins and schemas: Organizing your hapi application](https://medium.com/@dstevensio/manifests-plugins-and-schemas-organizing-your-hapi-application-68cf316730ef#.uxuia2gii)
