@@ -50,6 +50,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](https://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 
 ## Packages
+- [rest-hapi(https://github.com/JKHeadley/rest-hapi) - A RESTful API generator for hapi
 
 ## Others
 
