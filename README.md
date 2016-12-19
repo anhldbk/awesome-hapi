@@ -35,6 +35,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [makemehapi](https://github.com/hapijs/makemehapi) - Self guided workshops to teach you about hapi
 - [Introducing chairo, a hapi.js Microservices Plugin](https://hueniverse.com/2015/06/02/introducing-chairo-a-hapi-js-microservices-plugin/)
 - [Using hapi.js with Socket.io](http://matt-harrison.com/using-hapi-js-with-socket-io/)
+- [nodejs-tutorials-hapi](https://github.com/fs-opensource/nodejs-tutorials-hapi) - Tutorial showcase for the hapi beginner series on Future Studio
 
 ### Best practices
 - [Best Practice Project Structure](https://github.com/hapijs/hapi/issues/2479)
