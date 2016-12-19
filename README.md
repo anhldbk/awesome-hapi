@@ -38,6 +38,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [nodejs-tutorials-hapi](https://github.com/fs-opensource/nodejs-tutorials-hapi) - Tutorial showcase for the hapi beginner series on Future Studio
 - [Serving React and Flux with Hapi and Webpack](https://medium.com/@tribou/serving-react-and-flux-with-hapi-and-webpack-213afacf94ea#.dgm70qow6)
 - [How to use Hapi decorate?](https://medium.com/@thedon/how-to-use-hapi-decorate-3b3896045ae1#.st82l71am)
+- [Thin Controller in Hapi](https://medium.com/@thedon/thin-controller-in-hapi-e52cfcb3962d#.9u49vwt1b)
 
 ### Best practices
 - [Best Practice Project Structure](https://github.com/hapijs/hapi/issues/2479)
