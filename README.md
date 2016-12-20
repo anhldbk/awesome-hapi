@@ -42,6 +42,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [Thin Controller in Hapi](https://medium.com/@thedon/thin-controller-in-hapi-e52cfcb3962d#.9u49vwt1b)
 - [Realtime timeline with hapi.js, nes and RethinkDB](http://mph-web.de/realtime-timeline-with-hapi-js-nes-and-rethinkdb/)
 - [hapi.js request lifecycle diagram](http://freecontent.manning.com/hapi-js-in-action-diagram/)
+- [Express to Hapi.js](http://matt-harrison.com/moving-from-express-to-hapi-js/)
 
 ### Q&A
 - [HapiJS global path prefix](http://stackoverflow.com/questions/27871324/hapijs-global-path-prefix)
