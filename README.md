@@ -2,7 +2,7 @@
 
 A curated list of delightful HapiJS [packages](#packages) and [resources](#resources).
 
-
+> hapi was created around the idea that configuration is better than code, that business logic must be isolated from the transport layer, and that native node constructs like buffers and stream should be supported as first class objects. But most importantly, it was created to provide a modern, comprehensive environment in which as much of the effort is spent delivering business value. ([hapi, a Prologue](https://hueniverse.com/2012/12/20/hapi-a-prologue/) by Eran Hammer )
 
 ## Contents
 
