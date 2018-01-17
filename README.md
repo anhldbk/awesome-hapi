@@ -25,7 +25,7 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 ### Tutorials
 - [learn-hapi](https://github.com/dwyl/learn-hapi) - Learn to use Hapi.js (Node.js) web framework to build scalable apps in less time
 - [How to create a REST API with Hapi, Dogwater and Bedwetter](http://blog.webkid.io/how-to-create-a-rest-api-with-hapi/)
-- [Hapi — How to Use Server Labels](https://futurestud.io/tutorials/hapi-how-to-use-server-labels)
+- [hapi tutorial series (78+ tutorials)](https://futurestud.io/tutorials/hapi-get-your-server-up-and-running)
 - [hapijs-rest-api-tutorial](https://gist.github.com/agendor/9922151) - A practical introduction to building a RESTful API with the hapi.js server framework for Node.js
 - [hapi-example](https://github.com/geek/hapi-example) - Making an API happy with hapi
 - [Getting Started with Hapi 8](https://blog.risingstack.com/getting-started-with-hapi-8/)
@@ -41,8 +41,12 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 - [How to use Hapi decorate?](https://medium.com/@thedon/how-to-use-hapi-decorate-3b3896045ae1#.st82l71am)
 - [Thin Controller in Hapi](https://medium.com/@thedon/thin-controller-in-hapi-e52cfcb3962d#.9u49vwt1b)
 - [Realtime timeline with hapi.js, nes and RethinkDB](http://mph-web.de/realtime-timeline-with-hapi-js-nes-and-rethinkdb/)
+- [hapi v17 request lifecycle cheat sheet (free PDF)](https://futurestud.io/downloads/hapi/request-lifecycle)
 - [hapi.js request lifecycle diagram](http://freecontent.manning.com/hapi-js-in-action-diagram/)
 - [Express to Hapi.js](http://matt-harrison.com/moving-from-express-to-hapi-js/)
+
+### Apps/Boilerplates
+- [Futureflix](https://github.com/fs-opensource/futureflix-starter-kit): a hapi starter kit with existing project structure for views, static assets, Mongoose and MongoDB
 
 ### Q&A
 - [HapiJS global path prefix](http://stackoverflow.com/questions/27871324/hapijs-global-path-prefix)
