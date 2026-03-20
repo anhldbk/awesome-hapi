@@ -66,6 +66,9 @@ A curated list of delightful HapiJS [packages](#packages) and [resources](#resou
 
 ## Packages
 
+### Queue / Job Processing
+
+- [`@glidemq/hapi`](https://github.com/avifenesh/glidemq-hapi) - Queue management plugin for [glide-mq](https://github.com/avifenesh/glide-mq) with 21 REST API endpoints, SSE events, serverless producer support, and in-memory testing mode. Built on Valkey/Redis Streams.
 
 ## Others
 
